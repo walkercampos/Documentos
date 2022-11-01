@@ -6,7 +6,7 @@ head
     titleHello, Worldtitle
 head
 body
-    pHello, World!p
+    phello, world!p
     style type=textcss
         p {
             colorgreen;
